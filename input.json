@@ -1,0 +1,10 @@
+{
+  "companyIds": [
+    "Visa"
+  ],
+  "maxResultsPerCompany": 10,
+  "includeDescription": false,
+  "proxyConfiguration": {
+    "useApifyProxy": true
+  }
+}
